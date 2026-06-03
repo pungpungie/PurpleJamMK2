@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Kelas 11\\MK2\\MyGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FFA8360-0BBF-7AA7-0617-18280CA03E00}|Assembly-CSharp.csproj|d:\\kelas 11\\mk2\\mygame\\assets\\script\\settingsmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FFA8360-0BBF-7AA7-0617-18280CA03E00}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\settingsmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Kelas 11\\MK2\\MyGame\\Assets\\PlayerHealths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\PlayerHealths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Kelas 11\\MK2\\MyGame\\Assets\\FinishLevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\FinishLevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FFA8360-0BBF-7AA7-0617-18280CA03E00}|Assembly-CSharp.csproj|D:\\Kelas 11\\MK2\\MyGame\\assets\\script\\menu event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FFA8360-0BBF-7AA7-0617-18280CA03E00}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\menu event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Kelas 11\\MK2\\MyGame\\Assets\\PindahLevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\PindahLevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Kelas 11\\MK2\\MyGame\\Assets\\NewMonoBehaviourScript2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\NewMonoBehaviourScript2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Kelas 11\\MK2\\MyGame\\Assets\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Kelas 11\\MK2\\MyGame\\Assets\\NewMonoBehaviourScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\NewMonoBehaviourScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Kelas 11\\MK2\\MyGame\\Assets\\NewMonoBehaviourScript1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\NewMonoBehaviourScript1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SettingsMenu.cs",
+              "DocumentMoniker": "D:\\Kelas 11\\MK2\\MyGame\\Assets\\Script\\SettingsMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SettingsMenu.cs",
+              "ToolTip": "D:\\Kelas 11\\MK2\\MyGame\\Assets\\Script\\SettingsMenu.cs",
+              "RelativeToolTip": "Assets\\Script\\SettingsMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T05:45:08.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PindahLevel.cs",
+              "DocumentMoniker": "D:\\Kelas 11\\MK2\\MyGame\\Assets\\PindahLevel.cs",
+              "RelativeDocumentMoniker": "Assets\\PindahLevel.cs",
+              "ToolTip": "D:\\Kelas 11\\MK2\\MyGame\\Assets\\PindahLevel.cs",
+              "RelativeToolTip": "Assets\\PindahLevel.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T16:04:46.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FinishLevel.cs",
+              "DocumentMoniker": "D:\\Kelas 11\\MK2\\MyGame\\Assets\\FinishLevel.cs",
+              "RelativeDocumentMoniker": "Assets\\FinishLevel.cs",
+              "ToolTip": "D:\\Kelas 11\\MK2\\MyGame\\Assets\\FinishLevel.cs",
+              "RelativeToolTip": "Assets\\FinishLevel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T16:04:05.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NewMonoBehaviourScript2.cs",
+              "DocumentMoniker": "D:\\Kelas 11\\MK2\\MyGame\\Assets\\NewMonoBehaviourScript2.cs",
+              "RelativeDocumentMoniker": "Assets\\NewMonoBehaviourScript2.cs",
+              "ToolTip": "D:\\Kelas 11\\MK2\\MyGame\\Assets\\NewMonoBehaviourScript2.cs",
+              "RelativeToolTip": "Assets\\NewMonoBehaviourScript2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T16:02:11.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\Kelas 11\\MK2\\MyGame\\Assets\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\GameManager.cs",
+              "ToolTip": "D:\\Kelas 11\\MK2\\MyGame\\Assets\\GameManager.cs",
+              "RelativeToolTip": "Assets\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T14:30:29.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerHealths.cs",
+              "DocumentMoniker": "D:\\Kelas 11\\MK2\\MyGame\\Assets\\PlayerHealths.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerHealths.cs",
+              "ToolTip": "D:\\Kelas 11\\MK2\\MyGame\\Assets\\PlayerHealths.cs",
+              "RelativeToolTip": "Assets\\PlayerHealths.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T14:00:17.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NewMonoBehaviourScript.cs",
+              "DocumentMoniker": "D:\\Kelas 11\\MK2\\MyGame\\Assets\\NewMonoBehaviourScript.cs",
+              "RelativeDocumentMoniker": "Assets\\NewMonoBehaviourScript.cs",
+              "ToolTip": "D:\\Kelas 11\\MK2\\MyGame\\Assets\\NewMonoBehaviourScript.cs",
+              "RelativeToolTip": "Assets\\NewMonoBehaviourScript.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T07:50:26.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NewMonoBehaviourScript1.cs",
+              "DocumentMoniker": "D:\\Kelas 11\\MK2\\MyGame\\Assets\\NewMonoBehaviourScript1.cs",
+              "RelativeDocumentMoniker": "Assets\\NewMonoBehaviourScript1.cs",
+              "ToolTip": "D:\\Kelas 11\\MK2\\MyGame\\Assets\\NewMonoBehaviourScript1.cs",
+              "RelativeToolTip": "Assets\\NewMonoBehaviourScript1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T07:55:49.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Menu Event.cs",
+              "DocumentMoniker": "D:\\Kelas 11\\MK2\\MyGame\\Assets\\Script\\Menu Event.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Menu Event.cs",
+              "ToolTip": "D:\\Kelas 11\\MK2\\MyGame\\Assets\\Script\\Menu Event.cs",
+              "RelativeToolTip": "Assets\\Script\\Menu Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T08:18:32.697Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
